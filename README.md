@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-	
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesoftkor)](https://github.com/mesoftkor/github-readme-stats)
 <p>🏆 solved rank 🏆</p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mesoftkor)](https://solved.ac/mesoftkor/)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mesoftkor)](https://solved.ac/mesoftkor)
+<br>
 </div>
