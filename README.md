@@ -11,6 +11,7 @@
 	DataBase<br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/SQLite-003545?style=flat&logo=SQLite&logoColor=white" />
 	<br><br>
 	Tools<br>
 	<img src="https://img.shields.io/badge/VSNET-2003~2019-5C2D91" />
